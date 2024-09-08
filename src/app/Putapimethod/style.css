@@ -1,0 +1,16 @@
+input{
+    border: 2px solid black;
+    padding-left: 5px;
+    height: 2rem;
+    width: 15rem;
+}
+.link{
+    border: 2px solid black ;
+    
+}
+button{
+    background-color: black;
+    color: white;
+    height: 2rem;
+    width: 5rem;
+}
